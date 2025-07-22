@@ -6,7 +6,7 @@ const Header = ({part1, part2}) => {
         setIsDark((prev) => !prev);
     };
   return (
-    <nav className='min-w-7xl h-20 py-5 fixed backdrop-blur-2xl flex justify-between sm:justify-evenly items-center px-4 sm:px-10 z-50 bg-black/10 rounded-2xl'>
+    <nav className='min-w-7xl h-20 py-5 fixed backdrop-blur-2xl flex justify-center sm:justify-evenly items-center px-4 sm:px-10 z-50 bg-black/10 rounded-2xl gap-5'>
       <div 
       className='md:text-2xl font-medium font-clash-display'>
         {part1}

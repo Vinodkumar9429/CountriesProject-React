@@ -2,7 +2,7 @@ import React from 'react'
 
 const SingleCard = ({name, flag, population, region, capital}) => {
   return (
-    <div className='w-72 h-[400px] rounded-xl shadow-2xl transition-all duration-300 hover:-translate-y-1 overflow-hidden'>
+    <div className='w-72 h-[400px] rounded-xl shadow-2xl  transition-all duration-300 hover:-translate-y-1 overflow-hidden'>
       <a className="country-card h-full w-full flex flex-col" href={`/country.html?name=${name}`}>
         <img src={flag} className='w-full h-1/2 object-cover object-center' />
         <div className='flex flex-col h-1/2 w-full gap-y-2 py-2'>
