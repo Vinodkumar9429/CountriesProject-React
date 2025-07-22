@@ -1,12 +1,14 @@
-# React + Vite
+# Contries Project (FrontEnd Mentor)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## My first medium sized project in React.
 
-Currently, two official plugins are available:
+## Tech Stack:
+React + TailwindCSS with VIte.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+In this project, I've learnt to work with API end points in React, and fetching data from them and use them in my components
 
-## Expanding the ESLint configuration
+Maintained clean, polished UI throughout and added subtle microinteractions.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+Implementing search and fliter features.
+
+covered concepts like nested components, working with APIs, some hooks, routing etc
